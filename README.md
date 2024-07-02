@@ -9,7 +9,9 @@ source ./venv/bin/activate
 
 To run the server run the command:
 
+```bash
 python manage.py runserver
+```
 
 To deactivate the virtual environment run the command:
 
